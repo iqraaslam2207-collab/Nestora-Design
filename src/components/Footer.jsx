@@ -23,7 +23,7 @@ function Footer() {
             © 2026 Nestora. All rights reserved.
           </p>
           <p className="text-neutral-400 text-sm">
-            <a href="mailto:itzharshii88@gmail.com" className="hover:text-amber-400 transition">itzharshii88@gmail.com</a>
+            <a href="mailto:iqraaslam2207@gmail.com" className="hover:text-amber-400 transition">iqraaslam2207@gmail.com</a>
           </p>
         </div>
         
